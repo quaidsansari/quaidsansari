@@ -165,7 +165,7 @@ Lead verification flows
 # 🧪 Code Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quaidsalamatansari&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quaidsansari&theme=tokyo-night" />
 </p>
 
 ---
