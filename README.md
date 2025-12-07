@@ -39,8 +39,7 @@
 # 🚀 About Me
 
 I’m an **AI Developer, Automation Architect, and Full-Stack Engineer** with:
-
-- **20+ years of software engineering experience**  
+  
 - **8+ years specialized in AI/ML, Automation & Intelligent SaaS Systems**  
 - A track record of **building high-impact AI workflows and automation ecosystems**  
 
